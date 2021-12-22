@@ -30,7 +30,7 @@
     "max-classes-per-file": false,
     "max-line-length": [
       true,
-      140
+      500
     ],
     "member-ordering": [
       true,
@@ -120,6 +120,7 @@
     "component-class-suffix": true,
     "contextual-lifecycle": true,
     "directive-class-suffix": true,
+    "no-unused-expression": false,
     "no-conflicting-lifecycle": true,
     "no-host-metadata-property": true,
     "no-input-rename": true,
